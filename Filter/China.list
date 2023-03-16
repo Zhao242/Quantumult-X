@@ -4,28 +4,7 @@ HOST-SUFFIX, gandi.net, DIRECT
 HOST-SUFFIX, snapdrop.net, DIRECT
 HOST, download.jetbrains.com, DIRECT
 HOST, origin-a.akamaihd.ne, DIRECT
-# ---(Microsoft)---
-# > Outlook
-HOST, outlook.office365.com, DIRECT
-HOST, smtp-mail.outlook.com, DIRECT
-HOST, smtp.office365.com, DIRECT
-# > Windows Server Update Services
-HOST-SUFFIX, dl.delivery.mp.microsoft.com, DIRECT
-HOST-SUFFIX, update.microsoft.com, DIRECT
-HOST-SUFFIX, windowsupdate.com, DIRECT
-HOST-SUFFIX, windowsupdate.microsoft.com, DIRECT
-HOST, download.microsoft.com, DIRECT
-HOST, wustat.windows.com, DIRECT
-HOST, ntservicepack.microsoft.com, DIRECT
-# ------
-# > PayPal
-HOST-SUFFIX, paypal.com, DIRECT
-HOST-SUFFIX, paypal.me, DIRECT
-HOST-SUFFIX, paypal-mktg.com, DIRECT
-HOST-SUFFIX, paypalobjects.com, DIRECT
-# > Steam
-HOST-SUFFIX, cm.steampowered.com, DIRECT
-HOST-SUFFIX, steamserver.net, DIRECT
+
 # > Tencent
 IP-CIDR, 182.254.116.0/24, DIRECT
 IP-CIDR, 203.205.238.0/23, DIRECT
@@ -33,9 +12,11 @@ IP-CIDR, 203.205.254.0/23, DIRECT
 # > IP Query
 HOST, ip.istatmenus.app, DIRECT
 HOST, sms.imagetasks.com, DIRECT
+
 # > Speed Test
 HOST-SUFFIX, netspeedtestmaster.com, DIRECT
 HOST, speedtest.macpaw.com, DIRECT
+
 # > Private Tracker
 HOST-SUFFIX, acg.rip, DIRECT
 HOST-SUFFIX, animebytes.tv, DIRECT
