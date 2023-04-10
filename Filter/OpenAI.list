@@ -1,8 +1,12 @@
 # OpenAl
-host-suffix,openai.com,OpenAl
-host-suffix,ai.com,OpenAl
-host,cdn.auth0.com,OpenAl
-host,openaiapi-site.azureedge.net,OpenAl
-
-
+HOST, cdn.auth0.com, direct
+HOST, challenges.cloudflare.com, direct
+HOST, openaiapi-site.azureedge.net, direct
+HOST-SUFFIX, openai.com, direct
+HOST-SUFFIX, ai.com, direct
+HOST-SUFFIX, identrust.com, direct
+HOST-SUFFIX, openaiapi-site.azureedge.net, direct
+HOST-SUFFIX, openaicom.imgix.net, direct
+HOST-SUFFIX, openaicomproductionae4b.blob.core.windows.net, direct
+HOST-SUFFIX, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, direct
 
