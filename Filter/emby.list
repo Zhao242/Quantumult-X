@@ -1,0 +1,10 @@
+# polo    //df.poloemby.xyz:8096
+HOST-SUFFIX,poloemby.xyz, EMBY
+
+# bluesea //bluesea.ddns.me:8096
+HOST-SUFFIX,bluesea.ddns.me,EMBY
+
+# Misakaf //cdn.misakaf.org:8096
+HOST-SUFFIX,cdn.misakaf.org,EMBY
+
+HOST-SUFFIX,olelive.com, EMBY
