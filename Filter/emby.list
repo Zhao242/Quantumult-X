@@ -1,11 +1,17 @@
-# polo    //df.poloemby.xyz:8096
-HOST-SUFFIX,poloemby.xyz, DIRECT
+# Peach
+HOST-SUFFIX, embymv.tk, DIRECT
 
-# bluesea //bluesea.ddns.me:8096
-HOST-SUFFIX,bluesea.ddns.me,DIRECT
+# Polo
+HOST-SUFFIX, poloemby.xyz, DIRECT
 
-# Misakaf //cdn.misakaf.org:8096
-HOST-SUFFIX,cdn.misakaf.org,DIRECT
+# BlueSea
+HOST-SUFFIX, bluesea.ddns.me, DIRECT
 
-#欧乐影业
-HOST-SUFFIX,olelive.com, DIRECT
+# embyX
+HOST-SUFFIX, nijigem.by, DIRECT
+
+# 二次元
+HOST-SUFFIX, speedx.one, DIRECT
+
+# 欧乐
+HOST-SUFFIX, olelive.com, DIRECT
