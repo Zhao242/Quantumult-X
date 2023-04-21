@@ -18,3 +18,7 @@ HOST-SUFFIX, speedx.one, DIRECT
 
 # 欧乐
 HOST-SUFFIX, olelive.com, DIRECT
+
+# 独播库
+HOST-KEYWORD, duboku, direct
+HOST-SUFFIX, gboku.com, direct
