@@ -13,11 +13,8 @@ HOST-SUFFIX, film.goodisp.org, DIRECT
 # misakaf
 HOST-SUFFIX, misakaf.org, DIRECT
 
-# embyX
-HOST-SUFFIX, nijigem.by, DIRECT
-
-# 二次元
-HOST-SUFFIX, speedx.one, DIRECT
+# 纸片人
+host-suffix, embyplus.org, direct
 
 # 欧乐
 HOST-SUFFIX, olelive.com, DIRECT
