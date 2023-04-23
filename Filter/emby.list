@@ -14,7 +14,9 @@ HOST-SUFFIX, film.goodisp.org, DIRECT
 HOST-SUFFIX, misakaf.org, DIRECT
 
 # 纸片人
+host, gd.9521732.xyz, direct
 host-suffix, embyplus.org, direct
+host-suffix, dandanplay.net, direct
 
 # 欧乐
 HOST-SUFFIX, olelive.com, DIRECT
