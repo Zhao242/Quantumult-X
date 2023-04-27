@@ -1,17 +1,20 @@
-# Loser
-host, cfca.emby.ml, DIRECT
+#Peach 香港
+HOST, kr.embymv.tk, DIRECT
 
-# Polo
-HOST-SUFFIX, poloemby.xyz, DIRECT
+# Loser 海外
+HOST, cfca.emby.ml, DIRECT
 
-# BlueSea
+# Polo 挂梯
+HOST-SUFFIX poloemby.xyz, DIRECT
+
+# BlueSea 
 HOST-SUFFIX, bluesea.ddns.me, DIRECT
 
 #NMemby
-HOST-SUFFIX, film.goodisp.org, DIRECT
+HOST, film.goodisp.org, DIRECT
 
 # Aceemby
-host, play.acemby.org, DIRECT
+HOST, play.acemby.org, DIRECT
 
 # 纸片人
 host, gd.9521732.xyz, direct
