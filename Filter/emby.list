@@ -5,7 +5,7 @@ HOST, kr.embymv.tk, DIRECT
 HOST, cfca.emby.ml, DIRECT
 
 # Polo 挂梯
-HOST-SUFFIX poloemby.xyz, DIRECT
+HOST-SUFFIX, poloemby.xyz, DIRECT
 
 # BlueSea 
 HOST-SUFFIX, bluesea.ddns.me, DIRECT
