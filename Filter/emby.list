@@ -7,9 +7,6 @@ HOST, cfca.emby.ml, DIRECT
 # Polo 挂梯
 HOST-SUFFIX, poloemby.xyz, DIRECT
 
-# BlueSea 
-HOST-SUFFIX, bluesea.ddns.me, DIRECT
-
 #NMemby
 HOST, film.goodisp.org, DIRECT
 
