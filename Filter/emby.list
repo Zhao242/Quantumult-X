@@ -1,9 +1,5 @@
-# Peach
-HOST-SUFFIX, embymv.tk, DIRECT
-
 # Loser
 host, cfca.emby.ml, DIRECT
-host-suffix, loseremby.org, DIRECT
 
 # Polo
 HOST-SUFFIX, poloemby.xyz, DIRECT
@@ -13,9 +9,6 @@ HOST-SUFFIX, bluesea.ddns.me, DIRECT
 
 #NMemby
 HOST-SUFFIX, film.goodisp.org, DIRECT
-
-# misakaf
-HOST-SUFFIX, misakaf.org, DIRECT
 
 # Aceemby
 host, play.acemby.org, DIRECT
