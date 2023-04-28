@@ -5,6 +5,9 @@ IP-CIDR, 188.172.228.49/32, DIRECT
 HOST, kr.embymv.tk, DIRECT
 HOST, jp.embymv.tk, DIRECT
 
+# orange cf
+host, cf.embytv.cf, direct
+
 #星云
 host, direct.nebula-emby.com, direct
 
