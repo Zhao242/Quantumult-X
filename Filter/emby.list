@@ -2,6 +2,9 @@
 HOST, kr.embymv.tk, DIRECT
 HOST, jp.embymv.tk, DIRECT
 
+#星云
+host, direct.nebula-emby.com, direct
+
 # Loser 海外
 HOST, cfca.emby.ml, DIRECT
 
