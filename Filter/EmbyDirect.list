@@ -9,3 +9,6 @@ HOST-SUFFIX, loseremby.org, DIRECT
 
 # DiDi影视
 HOST-SUFFIX, newwan.top, direct
+
+#polo白
+ip-cidr, 104.238.220.235/24, direct
