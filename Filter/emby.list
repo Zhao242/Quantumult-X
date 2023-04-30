@@ -17,6 +17,9 @@ HOST, cfca.emby.ml, DIRECT
 # Polo 挂梯
 HOST-SUFFIX, poloemby.xyz, DIRECT
 
+# HXD
+HOST-SUFFIX, bili.rip, direct
+
 #NMemby
 HOST, film.goodisp.org, DIRECT
 
