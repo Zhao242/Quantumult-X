@@ -9,7 +9,7 @@ HOST, jp.embymv.tk, DIRECT
 host, cf.embytv.cf, direct
 
 #Magic
-host, emby.freetz.top, direct
+host-suffix, freetz.top, direct
 
 #星云
 host, direct.nebula-emby.com, direct
