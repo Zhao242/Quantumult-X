@@ -11,6 +11,9 @@ host, cf.embytv.cf, direct
 #Magic
 host-suffix, freetz.top, direct
 
+#misty
+host, misty.ltd, direct
+
 #星云
 host, direct.nebula-emby.com, direct
 
