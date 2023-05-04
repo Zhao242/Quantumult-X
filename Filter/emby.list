@@ -1,12 +1,8 @@
 # 23 STUDIO
 IP-CIDR, 188.172.228.49/24, DIRECT
 
-#Peach 香港
-HOST, kr.embymv.tk, DIRECT
-HOST, jp.embymv.tk, DIRECT
-
-# orange cf
-host, cf.embytv.cf, direct
+# 123
+host, nl.774.gs, direct
 
 #Magic
 host-suffix, freetz.top, direct
@@ -33,6 +29,13 @@ HOST, film.goodisp.org, DIRECT
 host, gd.9521732.xyz, direct
 host-suffix, embyplus.org, direct
 host-suffix, dandanplay.net, direct
+
+#Peach 香港
+HOST, kr.embymv.tk, DIRECT
+HOST, jp.embymv.tk, DIRECT
+
+# orange cf
+host, cf.embytv.cf, direct
 
 # 欧乐
 HOST-SUFFIX, olelive.com, DIRECT
