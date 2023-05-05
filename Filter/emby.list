@@ -32,13 +32,6 @@ host, gd.9521732.xyz, direct
 host-suffix, embyplus.org, direct
 host-suffix, dandanplay.net, direct
 
-#Peach 香港
-HOST, kr.embymv.tk, DIRECT
-HOST, jp.embymv.tk, DIRECT
-
-# orange cf
-host, cf.embytv.cf, direct
-
 # Loser 海外
 HOST, cfca.emby.ml, DIRECT
 
