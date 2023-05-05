@@ -2,7 +2,7 @@
 host, 23.emby77.cf, direct
 
 # Polo
-HOST-SUFFIX, poloemby.xyz, DIRECT
+host-suffix, poloemby.xyz, direct
 
 # misty
 host, misty.ltd, direct
@@ -18,14 +18,14 @@ host, free.emby.eu.org, direct
 host, 9wfree.emby.eu.org, direct
 
 # NMemby
-HOST, film.goodisp.org, DIRECT
+host, film.goodisp.org, direct
 
 # 星空
 host, nl.774.gs, direct
 host, hlxsa.emby77.org, direct
 
 # HXD
-HOST-SUFFIX, bili.rip, direct
+host-suffix, bili.rip, direct
 
 # 纸片人
 host, gd.9521732.xyz, direct
@@ -33,11 +33,11 @@ host-suffix, embyplus.org, direct
 host-suffix, dandanplay.net, direct
 
 # Loser 海外
-HOST, cfca.emby.ml, DIRECT
+host, cfca.emby.ml, direct
 
 # 欧乐
-HOST-SUFFIX, olelive.com, DIRECT
+host-suffix, olelive.com, direct
 
 # 独播库
 HOST-KEYWORD, duboku, direct
-HOST-SUFFIX, gboku.com, direct
+host-suffix, gboku.com, direct
