@@ -13,6 +13,9 @@ host, misty.ltd, direct
 #星云
 host, direct.nebula-emby.com, direct
 
+#星光
+host, free.emby.eu.org, direct
+
 # Loser 海外
 HOST, cfca.emby.ml, DIRECT
 
