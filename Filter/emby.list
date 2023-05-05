@@ -1,11 +1,8 @@
 # 23 STUDIO
 host, 23.emby77.cf, direct
 
-# 123
-host, nl.774.gs, direct
-
-#Magic
-host-suffix, freetz.top, direct
+# Polo 挂梯
+HOST-SUFFIX, poloemby.xyz, DIRECT
 
 #misty
 host, misty.ltd, direct
@@ -13,20 +10,22 @@ host, misty.ltd, direct
 #星云
 host, direct.nebula-emby.com, direct
 
+# 魔法
+host-suffix, freetz.top, direct
+
 #星光
 host, free.emby.eu.org, direct
-
-# Loser 海外
-HOST, cfca.emby.ml, DIRECT
-
-# Polo 挂梯
-HOST-SUFFIX, poloemby.xyz, DIRECT
-
-# HXD
-HOST-SUFFIX, bili.rip, direct
+host, 9wfree.emby.eu.org, direct
 
 #NMemby
 HOST, film.goodisp.org, DIRECT
+
+# 星空
+host, nl.774.gs, direct
+host, hlxsa.emby77.org, direct
+
+# HXD
+HOST-SUFFIX, bili.rip, direct
 
 # 纸片人
 host, gd.9521732.xyz, direct
@@ -39,6 +38,9 @@ HOST, jp.embymv.tk, DIRECT
 
 # orange cf
 host, cf.embytv.cf, direct
+
+# Loser 海外
+HOST, cfca.emby.ml, DIRECT
 
 # 欧乐
 HOST-SUFFIX, olelive.com, DIRECT
