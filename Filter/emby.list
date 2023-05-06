@@ -20,7 +20,7 @@ host, 9wfree.emby.eu.org, direct
 # NMemby
 host, film.goodisp.org, direct
 
-#卡戎
+# 卡戎
 host-suffix, charontv.com, direct
 
 # 星空
