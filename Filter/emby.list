@@ -16,6 +16,11 @@ host, direct.nebula-emby.com, direct
 # misty
 host, misty.ltd, direct
 
+# 纸片人
+host, gd.9521732.xyz, direct
+host-suffix, embyplus.org, direct
+host-suffix, dandanplay.net, direct
+
 # NMemby
 host, film.goodisp.org, direct
 
@@ -25,11 +30,6 @@ host, hlxsa.emby77.org, direct
 
 # HXD
 host-suffix, bili.rip, direct
-
-# 纸片人
-host, gd.9521732.xyz, direct
-host-suffix, embyplus.org, direct
-host-suffix, dandanplay.net, direct
 
 # 欧乐
 host-suffix, olelive.com, direct
