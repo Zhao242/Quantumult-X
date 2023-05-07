@@ -4,25 +4,20 @@ host, 23.emby77.cf, direct
 # 梁山
 host, emby.shuipo.lol, direct
 
+# 卡戎
+host-suffix, charontv.com, direct
+
 # Polo
 host-suffix, poloemby.xyz, direct
-
-# misty
-host, misty.ltd, direct
 
 # 星云
 host, direct.nebula-emby.com, direct
 
-
-# 星光
-host, free.emby.eu.org, direct
-host, 9wfree.emby.eu.org, direct
+# misty
+host, misty.ltd, direct
 
 # NMemby
 host, film.goodisp.org, direct
-
-# 卡戎
-host-suffix, charontv.com, direct
 
 # 星空
 host, nl.774.gs, direct
@@ -35,9 +30,6 @@ host-suffix, bili.rip, direct
 host, gd.9521732.xyz, direct
 host-suffix, embyplus.org, direct
 host-suffix, dandanplay.net, direct
-
-# Loser 海外
-host, cfca.emby.ml, direct
 
 # 欧乐
 host-suffix, olelive.com, direct
