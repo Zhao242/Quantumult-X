@@ -13,8 +13,6 @@ host, misty.ltd, direct
 # 星云
 host, direct.nebula-emby.com, direct
 
-# 魔法
-host-suffix, freetz.top, direct
 
 # 星光
 host, free.emby.eu.org, direct
