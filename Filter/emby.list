@@ -8,7 +8,7 @@ host, emby.shuipo.lol, direct
 host-suffix, charontv.com, direct
 
 # 猫猫
-host, kp.timeouts.info, direct
+host-suffix, timeouts.info, direct
 
 # Polo
 host-suffix, poloemby.xyz, direct
