@@ -10,9 +10,6 @@ host-suffix, charontv.com, direct
 # 猫猫
 host, kp.timeouts.info, direct
 
-# Polo
-host-suffix, poloemby.xyz, direct
-
 # 魔法
 host-suffix, freetz.top, direct
 
