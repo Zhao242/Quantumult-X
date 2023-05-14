@@ -34,6 +34,9 @@ host, hlxsa.emby77.org, direct
 # HXD
 host-suffix, bili.rip, direct
 
+#星光
+host-suffix, emby.eu.org, direct
+
 # 欧乐
 host-suffix, olelive.com, direct
 
