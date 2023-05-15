@@ -4,8 +4,9 @@ host-suffix, embymv.tk, direct
 # Orange
 host-suffix, embytv.cf, direct
 
-# Loser
+# Loser 移动联通/电信
 host-suffix, loseremby.org, direct
+host, 4837.emby.ml, direct
 
 # 猫猫
 host, flare.timeouts.info, direct
