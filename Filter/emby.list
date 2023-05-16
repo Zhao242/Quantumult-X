@@ -4,6 +4,9 @@ host, 23.emby77.cf, direct
 # 梁山
 host, emby.shuipo.lol, direct
 
+# misakaF
+host, cdn2.misakaf.org, direct
+
 # 卡戎
 host-suffix, charontv.com, direct
 
@@ -34,12 +37,5 @@ host, hlxsa.emby77.org, direct
 # HXD
 host-suffix, bili.rip, direct
 
-#星光
+# 星光
 host-suffix, emby.eu.org, direct
-
-# 欧乐
-host-suffix, olelive.com, direct
-
-# 独播库
-HOST-KEYWORD, duboku, direct
-host-suffix, gboku.com, direct
