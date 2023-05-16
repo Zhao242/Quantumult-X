@@ -1,4 +1,4 @@
-# 23 STUDIO
+# 23STUDIO
 host, 23.emby77.cf, direct
 
 # 梁山
@@ -13,8 +13,10 @@ host-suffix, charontv.com, direct
 # 猫猫
 host, kp.timeouts.info, direct
 
-# 魔法
-host-suffix, freetz.top, direct
+# 电报：随机、cf、落地机
+host, emby.imetyou.top, direct
+host, cf.imetyou.top, direct
+host, fk.imetyou.top, direct
 
 # 星云
 host, direct.nebula-emby.com, direct
