@@ -36,6 +36,9 @@ host, film.goodisp.org, direct
 host, nl.774.gs, direct
 host, hlxsa.emby77.org, direct
 
+# toby
+ip-cidr, 164.90.242.57/24, direct
+
 # HXD
 host-suffix, bili.rip, direct
 
