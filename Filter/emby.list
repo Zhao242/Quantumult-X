@@ -18,6 +18,9 @@ host, emby.imetyou.top, direct
 host, cf.imetyou.top, direct
 host, fk.imetyou.top, direct
 
+# 树状图
+host, 789.123456.al, direct
+
 # 星云
 host, direct.nebula-emby.com, direct
 
