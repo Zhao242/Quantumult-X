@@ -4,6 +4,9 @@ host, 23.emby77.cf, direct
 # 梁山
 host, emby.shuipo.lol, direct
 
+# 自行车海外
+host, cfca.emby.ml, direct
+
 # 卡戎
 host-suffix, charontv.com, direct
 
