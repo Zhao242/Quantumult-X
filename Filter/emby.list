@@ -5,7 +5,7 @@ host, 23.emby77.cf, direct
 host, emby.shuipo.lol, direct
 
 # misakaF
-host, cdn2.misakaf.org, direct
+host-suffix, misakaf.org, direct
 
 # 卡戎
 host-suffix, charontv.com, direct
@@ -13,16 +13,11 @@ host-suffix, charontv.com, direct
 # 猫猫
 host, kp.timeouts.info, direct
 
-# 电报：随机、cf、落地机
-host, emby.imetyou.top, direct
-host, cf.imetyou.top, direct
-host, fk.imetyou.top, direct
+# 电报
+host-suffix, imetyou.top, direct
 
 # 树状图
 host, 789.123456.al, direct
-
-# 星云
-host, direct.nebula-emby.com, direct
 
 # misty
 host, misty.ltd, direct
@@ -30,7 +25,6 @@ host, misty.ltd, direct
 # 纸片人
 host, gd.9521732.xyz, direct
 host-suffix, embyplus.org, direct
-host-suffix, dandanplay.net, direct
 
 # NMemby
 host, film.goodisp.org, direct
@@ -44,6 +38,3 @@ ip-cidr, 164.90.242.57/24, direct
 
 # HXD
 host-suffix, bili.rip, direct
-
-# 星光
-host-suffix, emby.eu.org, direct
