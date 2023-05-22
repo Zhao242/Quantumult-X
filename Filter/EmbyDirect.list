@@ -1,6 +1,3 @@
-# 滴滴影视
-host-suffix, newwan.top, direct
-
 # Peach
 host-suffix, embymv.tk, direct
 
@@ -13,12 +10,6 @@ host, 4837.emby.ml, direct
 
 # 猫猫
 host, flare.timeouts.info, direct
-
-# misakaF
-host, emby2.misakaf.org, direct
-
-# 电报首尔
-host, kr.imetyou.top, direct
 
 
 
