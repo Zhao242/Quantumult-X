@@ -1,23 +1,26 @@
-# 23STUDIO
+# 23 STUDIO
 host, 23.emby77.cf, direct
 
 # 梁山
 host, emby.shuipo.lol, direct
 
-# misakaF
-host-suffix, misakaf.org, direct
-
 # 卡戎
 host-suffix, charontv.com, direct
-
-# 电报
-host-suffix, imetyou.top, direct
 
 # 树状图
 host, 789.123456.al, direct
 
-# misty
+# 电报
+host-suffix, imetyou.top, direct
+
+# MisakaF
+host-suffix, misakaf.org, direct
+
+# Misty
 host, misty.ltd, direct
+
+# HXD
+host-suffix, bili.rip, direct
 
 # 纸片人
 host, gd.9521732.xyz, direct
@@ -29,9 +32,3 @@ host, film.goodisp.org, direct
 # 星空
 host, nl.774.gs, direct
 host, hlxsa.emby77.org, direct
-
-# toby
-ip-cidr, 164.90.242.57/24, direct
-
-# HXD
-host-suffix, bili.rip, direct
