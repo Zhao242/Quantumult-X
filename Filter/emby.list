@@ -35,3 +35,6 @@ host, film.goodisp.org, direct
 # 星空
 host, nl.774.gs, direct
 host, hlxsa.emby77.org, direct
+
+#toby
+ip-cidr, 165.227.161.189/24, direct
