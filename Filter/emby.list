@@ -10,6 +10,9 @@ host, cfca.emby.ml, direct
 # 卡戎
 host-suffix, charontv.com, direct
 
+# 魔法
+host-suffix, freetz.top, direct
+
 # 树状图
 host, 789.123456.al, direct
 
