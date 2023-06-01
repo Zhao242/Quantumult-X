@@ -12,3 +12,6 @@ host, de.xmsl.org, direct
 # 星猫
 host, flare.timeouts.info, direct
 host, or.timeouts.info, direct
+
+# 折花
+host-suffix, wiri.tk, direct
