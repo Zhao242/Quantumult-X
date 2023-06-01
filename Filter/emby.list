@@ -7,6 +7,9 @@ host, emby.shuipo.lol, direct
 # 自行车海外
 host, cfde.xmsl.org, direct
 
+# 放映厅
+host, emby.9191001.xyz, direct
+
 # 卡戎
 host-suffix, charontv.com, direct
 
