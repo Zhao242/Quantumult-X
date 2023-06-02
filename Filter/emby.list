@@ -4,14 +4,8 @@ host, 23.emby77.cf, direct
 # 梁山
 host, emby.shuipo.lol, direct
 
-# 自行车海外
-host, cfde.xmsl.org, direct
-
 # 放映厅
 host, emby.9191001.xyz, direct
-
-# 终点站
-host-suffix, emby.wtf, direct
 
 # 卡戎
 host-suffix, charontv.com, direct
@@ -41,6 +35,3 @@ host, film.goodisp.org, direct
 # 星空
 host, nl.774.gs, direct
 host, hlxsa.emby77.org, direct
-
-#toby
-ip-cidr, 165.227.161.189/24, direct
