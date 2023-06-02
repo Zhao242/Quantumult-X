@@ -7,6 +7,9 @@ host, emby.shuipo.lol, direct
 # 放映厅
 host, emby.9191001.xyz, direct
 
+# 折花
+host-suffix, wiri.tk, direct
+
 # 卡戎
 host-suffix, charontv.com, direct
 
