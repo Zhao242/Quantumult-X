@@ -13,8 +13,5 @@ host, de.xmsl.org, direct
 host, flare.timeouts.info, direct
 host, or.timeouts.info, direct
 
-# 折花
-host-suffix, wiri.tk, direct
-
 # 终点站
 host-suffix, emby.wtf, direct
