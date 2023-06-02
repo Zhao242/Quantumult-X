@@ -10,6 +10,9 @@ host, cfde.xmsl.org, direct
 # 放映厅
 host, emby.9191001.xyz, direct
 
+# 终点站
+host-suffix, emby.wtf, direct
+
 # 卡戎
 host-suffix, charontv.com, direct
 
@@ -21,9 +24,6 @@ host, 789.123456.al, direct
 
 # 电报
 host-suffix, imetyou.top, direct
-
-# MisakaF
-host-suffix, misakaf.org, direct
 
 # Misty
 host, misty.ltd, direct
