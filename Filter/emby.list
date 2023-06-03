@@ -16,6 +16,9 @@ host-suffix, charontv.com, direct
 # 魔法
 host-suffix, freetz.top, direct
 
+# 星云
+host-suffix, nebula-emby.com, direct
+
 # 树状图
 host, 789.123456.al, direct
 
