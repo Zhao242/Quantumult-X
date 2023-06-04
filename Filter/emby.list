@@ -7,23 +7,14 @@ host, emby.shuipo.lol, direct
 # 放映厅
 host, emby.9191001.xyz, direct
 
-# 折花
+# CaptainZ
 host-suffix, wiri.tk, direct
 
-# 卡戎
+# CharonTV
 host-suffix, charontv.com, direct
 
-# 魔法
-host-suffix, freetz.top, direct
-
-# 星云
-host-suffix, nebula-emby.com, direct
-
-# 树状图
+# TreeDiagram
 host, 789.123456.al, direct
-
-# 电报
-host-suffix, imetyou.top, direct
 
 # Misty
 host, misty.ltd, direct
@@ -34,9 +25,6 @@ host-suffix, bili.rip, direct
 # 纸片人
 host, gd.9521732.xyz, direct
 host-suffix, embyplus.org, direct
-
-# NMemby
-host, film.goodisp.org, direct
 
 # 星空
 host, nl.774.gs, direct
