@@ -1,5 +1,6 @@
 # 23 STUDIO
 host, 23.emby77.cf, direct
+ip-cidr, 188.172.228.49/24, direct
 
 # 梁山
 host, emby.shuipo.lol, direct
