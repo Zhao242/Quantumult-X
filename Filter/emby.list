@@ -5,14 +5,14 @@ ip-cidr, 188.172.228.49/24, direct
 # 梁山
 host, emby.shuipo.lol, direct
 
+# CharonTV
+host-suffix, charontv.com, direct
+
 # 放映厅
 host, emby.9191001.xyz, direct
 
 # CaptainZ
 host-suffix, wiri.tk, direct
-
-# CharonTV
-host-suffix, charontv.com, direct
 
 # TreeDiagram
 host, 789.123456.al, direct
