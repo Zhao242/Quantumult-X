@@ -1,7 +1,3 @@
-# 23 STUDIO
-host, 23.emby77.cf, direct
-ip-cidr, 188.172.228.49/24, direct
-
 # 梁山
 host, emby.shuipo.lol, direct
 
@@ -14,15 +10,5 @@ host, emby.9191001.xyz, direct
 # CaptainZ
 host-suffix, wiri.tk, direct
 
-# TreeDiagram
-host, 789.123456.al, direct
-
 # Misty
 host, misty.ltd, direct
-
-# HXD
-host-suffix, bili.rip, direct
-
-# 纸片人
-host, gd.9521732.xyz, direct
-host-suffix, embyplus.org, direct
