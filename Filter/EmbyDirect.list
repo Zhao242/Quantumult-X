@@ -17,3 +17,6 @@ host-suffix, starcat.eu.org, direct
 # 终点站
 host-suffix, emby.wtf, direct
 
+# emby餐厅
+host-suffix, ooii.net, direct
+
