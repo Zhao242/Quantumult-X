@@ -1,5 +1,5 @@
 # 不给看
-host, c.emby.pro, direct
+host-suffix, emby.pro, direct
 
 # Peach
 host-suffix, embymv.tk, direct
@@ -11,8 +11,8 @@ host-suffix, embytv.cf, direct
 host-suffix, dicarerhome.com, direct
 
 # Loser 移动联通、直连
-host, 1.loseremby.org, direct
-host, de.xmsl.org, direct
+host-suffix, loseremby.org, direct
+host-suffix, xmsl.org, direct
 
 # 星猫
 host-suffix, starcat.eu.org, direct
