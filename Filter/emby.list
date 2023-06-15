@@ -1,8 +1,8 @@
 # 梁山
-host, emby.shuipo.lol, direct
+host-suffix, shuipo.lol, direct
 
 # 放映厅
-host, emby.9191001.xyz, direct
+host-suffix, 9191001.xyz, direct
 
 # CaptainZ
 host-suffix, wiri.tk, direct
@@ -14,5 +14,5 @@ host-suffix, charontv.com, direct
 host-suffix, bili.rip, direct
 
 # emby餐厅
-host, emby.ooii.net, direct
+host-suffix, ooii.net, direct
 host-suffix, mius.uk, direct
