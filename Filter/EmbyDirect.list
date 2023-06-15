@@ -1,6 +1,5 @@
 # 不给看  普通、cdn直连
 host, c.emby.pro, direct
-host, c.bgka.me, direct
 
 # Peach
 host-suffix, embymv.tk, direct
