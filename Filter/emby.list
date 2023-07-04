@@ -10,5 +10,9 @@ host-suffix, 9191001.xyz, direct
 # CaptainZ
 host-suffix, wiri.tk, direct
 
+# Viper
+host, alist-proxy.viper.pub, direct
+host-suffix, agon.cf, direct
+
 # hxd
 host-suffix, bili.rip, direct
