@@ -10,6 +10,7 @@ host-suffix, embytv.cf, direct
 # Loser 移动联通、直连
 host-suffix, loseremby.org, direct
 host-suffix, xmsl.org, direct
+host-suffix, emby.ml, direct
 
 # 星猫
 host-suffix, starcat.eu.org, direct
