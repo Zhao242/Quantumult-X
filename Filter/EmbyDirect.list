@@ -7,9 +7,8 @@ host-suffix, embymv.tk, direct
 # Orange
 host-suffix, embytv.cf, direct
 
-# Loser 移动联通、直连
+# Loser 联通直连+公益
 host-suffix, loseremby.org, direct
-host-suffix, xmsl.org, direct
 host-suffix, emby.ml, direct
 
 # 星猫
