@@ -1,5 +1,5 @@
 # 不给看
-host-suffix, emby.pro, direct
+host, c.emby.pro, direct
 
 # Peach
 host-suffix, embymv.tk, direct
@@ -20,3 +20,6 @@ host-suffix, emby.wtf, direct
 
 # hxd_动漫
 host-suffix, nvidia.rip, direct
+
+# DiDi
+host-suffix, newwan.top, direct
