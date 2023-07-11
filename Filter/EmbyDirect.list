@@ -1,6 +1,9 @@
 # 不给看
 host, c.emby.pro, direct
 
+# CC公益
+host-suffix, ccemby.tk, direct
+
 # Peach
 host-suffix, embymv.tk, direct
 
