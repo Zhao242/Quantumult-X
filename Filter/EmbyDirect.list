@@ -1,5 +1,6 @@
 # 不给看
-host, c.emby.pro, direct
+host-suffix, emby.pro, direct
+host-suffix, bgka.me, direct
 
 # CC公益
 host-suffix, ccemby.tk, direct
@@ -7,10 +8,13 @@ host-suffix, ccemby.tk, direct
 # Peach
 host-suffix, embymv.tk, direct
 
+# gugu
+host-suffix, gugumedia.link, direct
+
 # Orange
 host-suffix, embytv.cf, direct
 
-# Loser 联通直连+公益
+# Loser 公费+公益
 host-suffix, loseremby.org, direct
 host-suffix, emby.ml, direct
 
@@ -20,5 +24,6 @@ host-suffix, starcat.eu.org, direct
 # 终点站
 host-suffix, emby.wtf, direct
 
-# hxd_动漫
+# hxd 动漫+主服
 host-suffix, nvidia.rip, direct
+host, 4837.bili.rip, direct
