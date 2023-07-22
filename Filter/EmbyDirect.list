@@ -11,19 +11,12 @@ host-suffix, embymv.tk, direct
 # gugu
 host-suffix, gugumedia.link, direct
 
-# Orange
-host-suffix, embytv.cf, direct
-
 # Loser 公费+公益
 host-suffix, loseremby.org, direct
 host-suffix, emby.ml, direct
 
-# 星猫
-host-suffix, starcat.eu.org, direct
-
 # 终点站
 host-suffix, emby.wtf, direct
 
-# hxd 动漫+主服
-host-suffix, nvidia.rip, direct
+# hxd 直连
 host, 4837.bili.rip, direct
