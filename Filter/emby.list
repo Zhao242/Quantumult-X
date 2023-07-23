@@ -10,7 +10,7 @@ host-suffix, embymv.tk, direct
 
 # gugu
 host-suffix, gugumedia.link, direct
-host-suffix, dicarerhome.com, direct
+
 
 # Loser 公益
 host-suffix, emby.ml, direct
@@ -24,9 +24,6 @@ host-suffix, emby.wtf, direct
 # hxd 
 host, 4837.bili.rip, direct
 host-suffix, bili.rip, direct
-
-# 梁山
-host-suffix, shuipo.lol, direct
 
 # CaptainZ
 host-suffix, wiri.tk, direct
