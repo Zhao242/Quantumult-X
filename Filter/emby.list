@@ -2,26 +2,14 @@
 host-suffix, emby.pro, direct
 host-suffix, bgka.me, direct
 
-# CC公益
-host-suffix, ccemby.tk, direct
-
 # Peach
-host-suffix, embymv.tk, direct
-
-#Orange
-host-suffix, otv.icu, direct
+host-suffix, peachmv.me, direct
 
 # gugu
 host-suffix, gugumedia.link, direct
 
-# Loser 公益
+# Loser
 host-suffix, xmsl.org, direct
-
-# 蓝海
-host-suffix, emby.ws, direct
-
-# 终点站
-host-suffix, emby.wtf, direct
 
 # hxd 
 host-suffix, bili.rip, direct
