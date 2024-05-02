@@ -13,10 +13,6 @@ IP-CIDR, 203.205.254.0/23, DIRECT
 HOST, ip.istatmenus.app, DIRECT
 HOST, sms.imagetasks.com, DIRECT
 
-# > Speed Test
-HOST-SUFFIX, netspeedtestmaster.com, DIRECT
-HOST, speedtest.macpaw.com, DIRECT
-
 # > Private Tracker
 HOST-SUFFIX, acg.rip, DIRECT
 HOST-SUFFIX, animebytes.tv, DIRECT
