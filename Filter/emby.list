@@ -1,12 +1,8 @@
 # 不给看
 host-suffix, emby.pro, direct
-host-suffix, bgka.me, direct
 
 # Peach
 host-suffix, embymv.tk, direct
-
-# gugu
-host-suffix, gugu.media, direct
 
 # Loser
 host-suffix, xmsl.org, direct
@@ -15,5 +11,5 @@ host-suffix, emby.moe, direct
 # hxd 
 host-suffix, bili.rip, direct
 
-# 纸片人
-host-suffix, embyplus.org, direct
+# p站
+host-suffix, pilipiliultra.com,direct
